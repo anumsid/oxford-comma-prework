@@ -6,5 +6,5 @@ def oxford_comma(array)
   else
     string = ", and " + array.pop
     string = array
-    
+  end
 end
